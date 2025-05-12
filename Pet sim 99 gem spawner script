@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Zenith-Exploits-Empire/Gen-v2/main/ps99/Gemspawner.lua"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/kk4ft/Scripts/main/32f78f12c8c5.lua", true))()
